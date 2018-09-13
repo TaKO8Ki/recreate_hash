@@ -4,7 +4,7 @@
 
 というhashがある時、
 
-`list_delete(user_1)`
+`list_delete_in_hash(user_1)`
 
 とすると、
 
