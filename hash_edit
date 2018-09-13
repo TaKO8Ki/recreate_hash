@@ -1,4 +1,4 @@
-def list_delete(hash)
+def list_delete_in_hash(hash)
     hash_keys = hash.keys
     hash_keys.each do |key|
         if key.instance_of?(Array) == true
